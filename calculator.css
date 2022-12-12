@@ -1,12 +1,19 @@
 #kk{
     width: 328px;
     height: 400px;
-    background-color: rgb(239, 234, 234);
+    background-color:gray;
     border-radius: 20px;
     border: solid black 1px;
     margin-left: 35%;
     margin-top: 70px;
+    box-shadow: inset;
 }
+#kk:hover{
+    background-color:rgb(58, 56, 56);
+    color: white;
+
+}
+
 h1{
     text-align: center;
 }
